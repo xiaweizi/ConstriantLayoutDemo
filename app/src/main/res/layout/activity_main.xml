@@ -72,4 +72,26 @@
         app:layout_constraintEnd_toEndOf="@id/tv1"
         android:text="0000" />
 
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="307dp"
+        android:layout_height="304dp"
+        tools:layout_editor_absoluteX="109dp"
+        tools:layout_editor_absoluteY="105dp" />
+
+    <RelativeLayout
+        android:layout_width="307dp"
+        android:layout_height="67dp"
+        tools:layout_editor_absoluteX="53dp"
+        tools:layout_editor_absoluteY="19dp">
+
+    </RelativeLayout>
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="109dp"
+        android:layout_height="323dp"
+        tools:layout_editor_absoluteX="53dp"
+        tools:layout_editor_absoluteY="86dp">
+
+    </android.support.constraint.ConstraintLayout>
+
 </android.support.constraint.ConstraintLayout>
